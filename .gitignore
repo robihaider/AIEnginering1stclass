@@ -1,0 +1,8 @@
+.evn
+Models/*
+__pycache__/
+.venv/
+*.pyc  
+*.log
+*.csv  
+*.dv
